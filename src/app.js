@@ -19,7 +19,7 @@ card.show();
 // Make the request
 ajax(
   {
-    url: 'http://10.3.0.1:8001/scenes/presets',
+    url: 'http://10.3.0.1:38005/scenes/presets',
     type: 'json'
   },
   function(data) {
@@ -57,7 +57,7 @@ ajax(
       console.log("Activating scene: " + sceneKey);
       ajax(
         {
-          url: 'http://10.3.0.1:8001/scenes',
+          url: 'http://10.3.0.1:38005/scenes',
           method: 'post',
           data: {'scene' : sceneKey},
           type: 'json'

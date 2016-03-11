@@ -11,17 +11,17 @@
             {
                 "file": "images/menu_icon.png",
                 "name": "IMAGE_MENU_ICON",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/logo_splash.png",
                 "name": "IMAGE_LOGO_SPLASH",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "images/tile_splash.png",
                 "name": "IMAGE_TILE_SPLASH",
-                "type": "png"
+                "type": "bitmap"
             },
             {
                 "file": "fonts/UbuntuMono-Regular.ttf",
@@ -32,7 +32,7 @@
                 "file": "images/lightc_control.png",
                 "menuIcon": true,
                 "name": "IMAGES_LIGHTC_CONTROL_PNG",
-                "type": "png"
+                "type": "bitmap"
             }
         ]
     },
@@ -42,7 +42,7 @@
         "aplite",
         "basalt"
     ],
-    "uuid": "54a39d33-9675-45c3-8593-5714908cf1eb",
+    "uuid": "168462d6-9c20-473d-b7ec-931adb877108",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
